@@ -85,11 +85,11 @@ Pizza-Sales-Analysis-PowerBI/
 
 ### 🏠 Home Dashboard
 
-[![Home Dashboard](Images/Home_Dashboard.png)](https://github.com/ishwarobi/pizza-sales-analysis-powerbi/blob/main/Images/Best_Worst_seller_dashboard.JPG)
 
 ### ⭐ Best/Worst Seller Dashboard
 
-![Best/Worst Seller Dashboard](Images/Best_Worst_Seller.png)
+[![Home Dashboard](Images/Home_Dashboard.png)](https://github.com/ishwarobi/pizza-sales-analysis-powerbi/blob/main/Images/Best_Worst_seller_dashboard.JPG)
+
 
 ---
 
