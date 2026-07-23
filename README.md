@@ -83,13 +83,13 @@ Pizza-Sales-Analysis-PowerBI/
 
 ## 📷 Dashboard Preview
 
-### Home Dashboard
+### 🏠 Home Dashboard
 
-(Add your Home Dashboard screenshot here.)
+![Home Dashboard](Images/Home_Dashboard.png)
 
-### Best/Worst Seller Dashboard
+### ⭐ Best/Worst Seller Dashboard
 
-(Add your Best/Worst Seller Dashboard screenshot here.)
+![Best/Worst Seller Dashboard](Images/Best_Worst_Seller.png)
 
 ---
 
@@ -125,7 +125,7 @@ Pizza-Sales-Analysis-PowerBI/
 
 **LinkedIn:** https://www.linkedin.com/in/ishwar-obi
 
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+**GitHub:** https://github.com/ishwarobi
 
 ---
 
